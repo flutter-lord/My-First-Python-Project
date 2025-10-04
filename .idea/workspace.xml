@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88b50c60-59a7-457e-8959-45a82c54c789" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MyFirstPythonProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="88b50c60-59a7-457e-8959-45a82c54c789" name="Changes" comment="git commit -m &quot;commmit&quot;">
+      <change afterPath="$PROJECT_DIR$/five circles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtletesting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turrtle2.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle exercise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +27,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -38,19 +37,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.welcome.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.19394512&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.five circles.executor": "Debug",
+    "Python.hello.executor": "Run",
+    "Python.turrtle2 (2).executor": "Run",
+    "Python.turrtle2.executor": "Run",
+    "Python.turtle exercise.executor": "Run",
+    "Python.turtletesting.executor": "Run",
+    "Python.welcome.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors",
+    "settings.editor.splitter.proportion": "0.19394512"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
+    <configuration name="five circles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyFirstPythonProjects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../MyFirstPythonProjects$FileDir$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\OLANREWAJU\PycharmProjects\MyFirstPythonProjects\five circles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="welcome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyFirstPythonProjects" />
       <option name="ENV_FILES" value="" />
@@ -73,8 +100,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.five circles" />
+      <item itemvalue="Python.welcome" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.five circles" />
         <item itemvalue="Python.welcome" />
       </list>
     </recent_temporary>
@@ -94,6 +126,31 @@
       <option name="presentableId" value="Default" />
       <updated>1746123607922</updated>
     </task>
+    <task id="LOCAL-00001" summary="git commit -m &quot;commmit&quot;">
+      <option name="closed" value="true" />
+      <created>1759462308522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759462308522</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git commit -m &quot;commmit&quot;">
+      <option name="closed" value="true" />
+      <created>1759462424076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759462424076</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git commit -m &quot;commmit&quot;">
+      <option name="closed" value="true" />
+      <created>1759462513400</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759462513400</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,5 +163,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit -m &quot;commmit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;commmit&quot;" />
   </component>
 </project>
