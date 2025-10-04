@@ -1,45 +1,38 @@
 import turtle
 
-'''turtle.goto(100, -80)
-turtle.forward(100)
-turtle.penup()
-turtle.goto(50, -50)
-turtle.penup()
-'''
+t = turtle
 
-turtle.color("blue")
-turtle.penup()
-turtle.goto(-110, -25)
-turtle.pendown()
-turtle.circle(45)
+t.color("blue")
+t.penup()
+t.goto(-110, -25)
+t.pendown()
+t.circle(45)
 
-turtle.color("indigo")
-turtle.penup()
-turtle.goto(0, -25)
-turtle.pendown()
-turtle.circle(45)
+t.color("indigo")
+t.penup()
+t.goto(0, -25)
+t.pendown()
+t.circle(45)
 
-turtle.color("red")
-turtle.penup()
-turtle.goto(110, -25)
-turtle.pendown()
-turtle.circle(45)
+t.color("red")
+t.penup()
+t.goto(110, -25)
+t.pendown()
+t.circle(45)
 
-turtle.color("yellow")
-turtle.penup()
-turtle.goto(-55, -75)
-turtle.pendown()
-turtle.circle(45)
+t.color("yellow")
+t.penup()
+t.goto(-55, -75)
+t.pendown()
+t.circle(45)
 
-turtle.color("purple")
-turtle.penup()
-turtle.goto(55, -75)
-turtle.pendown()
-turtle.circle(45)
+t.color("purple")
+t.penup()
+t.goto(55, -75)
+t.pendown()
+t.circle(45)
 
-turtle.done()
+t.done()
 
-#turtle.exitonclick()
-
-#print("hello")
+t.exitonclick()
 
