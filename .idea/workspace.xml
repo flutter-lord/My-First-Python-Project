@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88b50c60-59a7-457e-8959-45a82c54c789" name="Changes" comment="git commit -m &quot;commmit&quot;">
-      <change afterPath="$PROJECT_DIR$/twotriangles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fourcircles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/triangle1.py" beforeDir="false" afterPath="$PROJECT_DIR$/triangle1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,28 +47,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Doctests in turtle.executor": "Run",
-    "Python.five circles.executor": "Run",
-    "Python.hello.executor": "Run",
-    "Python.plus sign.executor": "Run",
-    "Python.triangle1.executor": "Run",
-    "Python.turrtle2 (2).executor": "Run",
-    "Python.turrtle2.executor": "Run",
-    "Python.turtle exercise.executor": "Run",
-    "Python.turtletesting.executor": "Run",
-    "Python.twotriangles.executor": "Run",
-    "Python.welcome.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
-    "settings.editor.splitter.proportion": "0.19394512"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Doctests in turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.five circles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fourcircles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plus sign.executor&quot;: &quot;Run&quot;,
+    &quot;Python.triangle1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turrtle2 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.turrtle2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtletesting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.twotriangles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.welcome.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.19394512&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="five circles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyFirstPythonProjects" />
@@ -213,7 +213,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759895263897</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="git commit -m &quot;commmit&quot;">
+      <option name="closed" value="true" />
+      <created>1759899800286</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759899800286</updated>
+    </task>
+    <task id="LOCAL-00011" summary="git commit -m &quot;commmit&quot;">
+      <option name="closed" value="true" />
+      <created>1759899821927</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1759899821927</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
