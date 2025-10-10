@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88b50c60-59a7-457e-8959-45a82c54c789" name="Changes" comment="git commit -m &quot;commmit&quot;">
+    <list default="true" id="88b50c60-59a7-457e-8959-45a82c54c789" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,12 +29,12 @@
     &quot;assignee&quot;: &quot;flutter-lord&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/flutter-lord/My-First-Python-Repository.git&quot;,
-    &quot;accountId&quot;: &quot;f8c8f446-26f9-4e9f-9725-f661c6bbefca&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/flutter-lord/My-First-Python-Project.git",
+    "accountId": "f8c8f446-26f9-4e9f-9725-f661c6bbefca"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -203,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760067662652</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit">
+      <option name="closed" value="true" />
+      <created>1760069594683</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1760069594683</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -211,7 +219,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -220,6 +240,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git commit -m &quot;commit&quot;" />
     <MESSAGE value="git commit -m &quot;commmit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="git commit -m &quot;commmit&quot;" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
