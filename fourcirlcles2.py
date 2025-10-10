@@ -39,13 +39,6 @@ t.forward(180)
 t.right(90)
 t.forward(200)
 
-
-
-
-
-
-
-
 t.done()
 
 
