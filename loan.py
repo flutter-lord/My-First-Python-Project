@@ -1,5 +1,5 @@
 annualInterestRate, numberOfYears, loanAmount, = eval(input("Dear Valued loanee, Please enter the interest rate,"
- "the number of years you want to pay your loan and loan amount : "))
+ "the number of years you will use to pay your loan and loan amount : "))
 
 monthlyInterestRate = annualInterestRate / 1200
 

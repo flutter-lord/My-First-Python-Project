@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88b50c60-59a7-457e-8959-45a82c54c789" name="Changes" comment="commit" />
+    <list default="true" id="88b50c60-59a7-457e-8959-45a82c54c789" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/circlecordinates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quadraticeEqn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loan.py" beforeDir="false" afterPath="$PROJECT_DIR$/loan.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +55,7 @@
     "Python tests.Doctests in turtle.executor": "Run",
     "Python.$FileDir$.executor": "Run",
     "Python.Tax.executor": "Run",
+    "Python.circlecordinates.executor": "Run",
     "Python.clock.executor": "Run",
     "Python.distancebetween2lines.executor": "Run",
     "Python.five circles.executor": "Run",
@@ -60,6 +66,7 @@
     "Python.minutestoyear.executor": "Run",
     "Python.numbersum.executor": "Run",
     "Python.plus sign.executor": "Run",
+    "Python.quadraticeEqn.executor": "Run",
     "Python.radiuselementary.executor": "Run",
     "Python.star.executor": "Run",
     "Python.time1.executor": "Run",
@@ -263,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760095719185</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="commit">
+      <option name="closed" value="true" />
+      <created>1760096309839</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1760096309839</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
