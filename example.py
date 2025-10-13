@@ -15,3 +15,10 @@ print(" olojede", end = " Richard\n")
 print("the area of the circle is 13", end = ' ')
 
 print("the area of the perimeter is 6")
+
+a = str(38)
+print(a)
+
+message = "welcome" + " " + "hello" + " " + "bye"
+
+print(message)
