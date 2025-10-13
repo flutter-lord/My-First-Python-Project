@@ -1,5 +1,7 @@
-import turtle as t
 
-t.write("\u6B22\u8FCE \u03b1 \u03b2 \u03b3")
+ch = 'a'
+print(ord("A"))
 
-t.done()
+print(chr(98))
+
+print("This is ayox\'s bag\nThe name of my school is funaab")
