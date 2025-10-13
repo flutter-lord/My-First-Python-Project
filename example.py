@@ -26,3 +26,6 @@ print(message)
 message += " richard is a programmer"
 
 print(message)
+
+
+print("\u7015")
