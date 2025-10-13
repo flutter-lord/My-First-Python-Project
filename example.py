@@ -22,3 +22,7 @@ print(a)
 message = "welcome" + " " + "hello" + " " + "bye"
 
 print(message)
+
+message += " richard is a programmer"
+
+print(message)
