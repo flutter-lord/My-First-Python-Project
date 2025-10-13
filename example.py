@@ -1,10 +1,5 @@
-import math as m
-'''
+import turtle as t
 
-theNumber = int(m.sqrt(4))
-minimum = max(10,2,3)
-'''
-#a = m.pow(2,3)
-a = round(-3.59876, 4)
+t.write("\u6B22\u8FCE \u03b1 \u03b2 \u03b3")
 
-print(a)
+t.done()
