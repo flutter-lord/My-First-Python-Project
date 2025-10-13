@@ -1,5 +1,4 @@
 
-ch = 'a'
 print(ord("A"))
 
 print(chr(98))
@@ -29,3 +28,14 @@ print(message)
 
 
 print("\u7015")
+
+x = input("Enter a character: ")
+ch = chr(ord(x) + 1)
+print(ch)
+
+x = input("Enter a character: ")
+y = input("Enter a character: ")
+print(ord(y) - ord(x))
+
+title = "character" + " 1"
+print(title)
