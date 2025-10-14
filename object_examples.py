@@ -4,12 +4,11 @@ print(id(n))
 
 print(type(n))
 
-
 my_name = "RicHARd"
 
 print(my_name.strip())
 
-money = 87654876543.098765678987654322
+money = 88776543
 
-print(format(money, "20.4f"))
-print(format(money, ".4f"))
+print(format(money, "o"))
+print(format(money, ".7%"))
