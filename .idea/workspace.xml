@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="88b50c60-59a7-457e-8959-45a82c54c789" name="Changes" comment="commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/minutes_to_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/minutes_to_year.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/object_examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/object_examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dollar_conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/dollar_conversion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,51 +47,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.Doctests in turtle.executor": "Run",
-    "Python.$FileDir$.executor": "Run",
-    "Python.Tax.executor": "Run",
-    "Python.circlecordinates.executor": "Run",
-    "Python.clock.executor": "Run",
-    "Python.distancebetween2lines.executor": "Run",
-    "Python.dollar_conversion.executor": "Run",
-    "Python.example.executor": "Run",
-    "Python.five circles.executor": "Run",
-    "Python.fourcircles.executor": "Run",
-    "Python.fourcirlcles2.executor": "Run",
-    "Python.hello.executor": "Run",
-    "Python.loan.executor": "Run",
-    "Python.minutestoyear.executor": "Run",
-    "Python.numbersum.executor": "Run",
-    "Python.object_examples.executor": "Run",
-    "Python.plus sign.executor": "Run",
-    "Python.quadraticeEqn.executor": "Run",
-    "Python.radiuselementary.executor": "Run",
-    "Python.star.executor": "Run",
-    "Python.time1.executor": "Run",
-    "Python.timesecond.executor": "Run",
-    "Python.triangle1.executor": "Run",
-    "Python.turrtle2 (2).executor": "Run",
-    "Python.turrtle2.executor": "Run",
-    "Python.turtle exercise.executor": "Run",
-    "Python.turtleline.executor": "Run",
-    "Python.turtletesting.executor": "Run",
-    "Python.twotriangles.executor": "Run",
-    "Python.welcome.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font",
-    "settings.editor.splitter.proportion": "0.28708136"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Doctests in turtle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.$FileDir$.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Tax.executor&quot;: &quot;Run&quot;,
+    &quot;Python.circlecordinates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.distancebetween2lines.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dollar_conversion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.five circles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fourcircles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fourcirlcles2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hello.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.minutestoyear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numbersum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.object_examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.plus sign.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quadraticeEqn.executor&quot;: &quot;Run&quot;,
+    &quot;Python.radiuselementary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.star.executor&quot;: &quot;Run&quot;,
+    &quot;Python.time1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.timesecond.executor&quot;: &quot;Run&quot;,
+    &quot;Python.triangle1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turrtle2 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.turrtle2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtle exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtleline.executor&quot;: &quot;Run&quot;,
+    &quot;Python.turtletesting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.twotriangles.executor&quot;: &quot;Run&quot;,
+    &quot;Python.welcome.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.28708136&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-164cda30dcd9-0af03a5fa574-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26830.99" />
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
@@ -488,7 +487,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760442844975</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="commit">
+      <option name="closed" value="true" />
+      <created>1760468310892</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1760468310892</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
