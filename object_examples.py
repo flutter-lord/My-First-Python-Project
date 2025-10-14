@@ -9,6 +9,7 @@ my_name = "RicHARd"
 
 print(my_name.strip())
 
-money = 87654.098765678987654322
+money = 87654876543.098765678987654322
 
+print(format(money, "20.4f"))
 print(format(money, ".4f"))
