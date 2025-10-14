@@ -24,6 +24,9 @@ print(message)
 
 message += " richard is a programmer"
 
+print("hfjkkjfddjklgfdsdghjklk\
+jhgfdfghjkjhgf")
+
 print(message)
 
 
