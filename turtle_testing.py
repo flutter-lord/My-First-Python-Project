@@ -1,8 +1,8 @@
-#import turtle
+import turtle
 
-#turtle.goto(-110, -25)
+turtle.goto(-110, -25)
 
-#turtle.exitonclick()
+turtle.exitonclick()
 
 print("FFFFFFF   U        U   N       N")
 print("FF        U        U   N  N    N")

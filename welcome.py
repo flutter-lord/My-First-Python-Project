@@ -9,7 +9,7 @@ turtle.write("Welcome to python Richard")
 turtle.color("yellow")
 turtle.forward(100)
 
-#turtle.right(90)
+turtle.right(90)
 
 turtle.color("red")
 turtle.forward(100)

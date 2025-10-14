@@ -1,20 +1,20 @@
 import time
-zonalTimeHours = eval(input("Enter the time zone according to GMT, add the sign, e.g +5, -3 : "))
+zonal_time_hours = eval(input("Enter the time zone according to GMT, add the sign, e.g +5, -3 : "))
 
-currentTime = time.time()
+current_time = time.time()
 
-totalSeconds = int(currentTime)
-currentSeconds = totalSeconds % 60
+total_seconds = int(current_time)
+current_seconds = total_seconds % 60
 
-totalMinutes = totalSeconds // 60
-currentMinutes = totalMinutes % 60
+total_minutes = total_seconds // 60
+current_minutes = total_minutes % 60
 
-totalHours = totalMinutes // 60
-currentHours = totalHours % 24
+total_hours = total_minutes // 60
+current_hours = total_hours % 24
 
-yourHoursNow = currentHours + zonalTimeHours
+your_hours_now = current_hours + zonal_time_hours
 
-print("The current time in your country now is", yourHoursNow, ":", currentMinutes,":", currentSeconds,"")
+print("The current time in your country now is", your_hours_now, ":", current_minutes,":", current_seconds,"")
 
 
 
