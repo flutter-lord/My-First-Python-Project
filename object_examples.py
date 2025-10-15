@@ -34,7 +34,7 @@ t.penup()
 t.home()
 t.pendown()
 
-t.dot(500, "grey")
+t.dot(500, "black")
 
 t.undo()
 
