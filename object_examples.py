@@ -35,6 +35,8 @@ t.pendown()
 
 t.dot(500, "grey")
 
+t.undo()
+
 '''
 t.forward(120)
 t.setx(60)
