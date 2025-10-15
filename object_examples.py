@@ -1,4 +1,4 @@
-n = 7777
+''' n = 7777
 
 print(id(n))
 
@@ -12,3 +12,23 @@ money = 88776543
 
 print(format(money, "o"))
 print(format(money, ".7%"))
+
+print(format(12345678.923, "9.1e"))
+
+print(format(0.457467657, "9.3%"))
+'''
+
+import turtle as t
+t.forward(120)
+t.setx(60)
+t.sety(50)
+t.right(90)
+t.forward(100)
+'''t.pencolor("red")
+t.backward(100)
+t.circle(50)
+t.color("blue")
+t.right(70)
+t.circle(50)'''
+
+t.done()
