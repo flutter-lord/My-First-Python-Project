@@ -32,6 +32,9 @@ t.forward(100)
 t.penup()
 t.home()
 t.pendown()
+
+t.dot(500, "grey")
+
 '''
 t.forward(120)
 t.setx(60)
