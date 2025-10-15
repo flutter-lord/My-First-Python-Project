@@ -20,6 +20,7 @@ print(format(0.457467657, "9.3%"))
 
 import turtle as t
 t.speed(1)
+t.circle(80, 260, 6)
 t.penup()
 t.goto(50, 70)
 t.pendown()
@@ -34,9 +35,11 @@ t.penup()
 t.home()
 t.pendown()
 
-t.dot(500, "black")
+t.dot(5, "black")
 
-t.undo()
+t.goto(50, 100)
+
+
 
 '''
 t.forward(120)
