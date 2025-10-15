@@ -20,7 +20,7 @@ print(format(0.457467657, "9.3%"))
 
 import turtle as t
 t.speed(1)
-t.circle(80, 260, 6)
+t.circle(80, 360, 6)
 t.penup()
 t.goto(50, 70)
 t.pendown()
