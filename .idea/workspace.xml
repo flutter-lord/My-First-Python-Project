@@ -104,22 +104,6 @@
       <option name="presentableId" value="Default" />
       <updated>1746123607922</updated>
     </task>
-    <task id="LOCAL-00009" summary="git commit -m &quot;commmit&quot;">
-      <option name="closed" value="true" />
-      <created>1759895263897</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1759895263897</updated>
-    </task>
-    <task id="LOCAL-00010" summary="git commit -m &quot;commmit&quot;">
-      <option name="closed" value="true" />
-      <created>1759899800286</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1759899800286</updated>
-    </task>
     <task id="LOCAL-00011" summary="git commit -m &quot;commmit&quot;">
       <option name="closed" value="true" />
       <created>1759899821927</created>
@@ -496,7 +480,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760514724557</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="commit">
+      <option name="closed" value="true" />
+      <created>1760515494768</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1760515494768</updated>
+    </task>
+    <task id="LOCAL-00059" summary="commit">
+      <option name="closed" value="true" />
+      <created>1760516069214</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1760516069214</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
