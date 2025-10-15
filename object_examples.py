@@ -19,6 +19,19 @@ print(format(0.457467657, "9.3%"))
 '''
 
 import turtle as t
+t.penup()
+t.goto(50, 70)
+t.pendown()
+t.forward(100)
+t.setheading(270)
+t.forward(100)
+t.right(90)
+t.forward(100)
+t.right(90)
+t.forward(100)
+t.penup()
+t.home()
+t.pendown()
 '''
 t.forward(120)
 t.setx(60)
