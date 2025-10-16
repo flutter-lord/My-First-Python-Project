@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88b50c60-59a7-457e-8959-45a82c54c789" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/hexagon_stop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle_bigger_circles.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +79,7 @@
     "Python.plus_sign.executor": "Run",
     "Python.quadraticeEqn.executor": "Run",
     "Python.radiuselementary.executor": "Run",
+    "Python.random.executor": "Run",
     "Python.star.executor": "Run",
     "Python.star2.executor": "Run",
     "Python.time1.executor": "Run",
@@ -86,6 +88,7 @@
     "Python.turrtle2 (2).executor": "Run",
     "Python.turrtle2.executor": "Run",
     "Python.turtle exercise.executor": "Run",
+    "Python.turtle_bigger_circles.executor": "Run",
     "Python.turtleline.executor": "Run",
     "Python.turtletesting.executor": "Run",
     "Python.twotriangles.executor": "Run",
@@ -112,14 +115,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746123607922</updated>
-    </task>
-    <task id="LOCAL-00022" summary="commit">
-      <option name="closed" value="true" />
-      <created>1760096309839</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1760096309839</updated>
     </task>
     <task id="LOCAL-00023" summary="commit">
       <option name="closed" value="true" />
@@ -505,7 +500,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760611467696</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="commit">
+      <option name="closed" value="true" />
+      <created>1760613044590</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1760613044590</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
