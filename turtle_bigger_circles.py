@@ -17,6 +17,7 @@ t.setx(150)
 t.pendown()
 t.circle(60)
 
+t.color("grey")
 t.penup()
 t.goto(70, -60)
 t.pendown()
