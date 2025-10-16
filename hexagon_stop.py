@@ -2,6 +2,7 @@ import turtle as t
 
 t.hideturtle()
 t.begin_fill()
+t.fillcolor("red")
 t.circle(100,steps= 6)
 t.end_fill()
 
