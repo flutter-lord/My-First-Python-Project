@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88b50c60-59a7-457e-8959-45a82c54c789" name="Changes" comment="commit" />
+    <list default="true" id="88b50c60-59a7-457e-8959-45a82c54c789" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/hexagon_stop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +67,7 @@
     "Python.fourcircles.executor": "Run",
     "Python.fourcirlcles2.executor": "Run",
     "Python.hello.executor": "Run",
+    "Python.hexagon_stop.executor": "Run",
     "Python.loan.executor": "Run",
     "Python.minutestoyear.executor": "Run",
     "Python.numbersum.executor": "Run",
@@ -108,14 +112,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746123607922</updated>
-    </task>
-    <task id="LOCAL-00021" summary="commit">
-      <option name="closed" value="true" />
-      <created>1760095719185</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1760095719185</updated>
     </task>
     <task id="LOCAL-00022" summary="commit">
       <option name="closed" value="true" />
@@ -501,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760610831851</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="commit">
+      <option name="closed" value="true" />
+      <created>1760611467696</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1760611467696</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -537,16 +541,5 @@
     <MESSAGE value="git commit -m &quot;commmit&quot;" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/star2.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
