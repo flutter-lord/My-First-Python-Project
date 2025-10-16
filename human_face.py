@@ -7,6 +7,9 @@ t.pendown()
 t.circle(120)
 
 t.penup()
+t.home()
+t.dot(3)
+
 t.goto(-75, -40)
 t.pendown()
 
