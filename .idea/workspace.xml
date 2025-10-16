@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88b50c60-59a7-457e-8959-45a82c54c789" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/five_polygons.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +63,7 @@
     "Python.dollar_conversion.executor": "Run",
     "Python.example.executor": "Run",
     "Python.five circles.executor": "Run",
+    "Python.five_polygons.executor": "Run",
     "Python.four_digit_reverse.executor": "Run",
     "Python.fourcircles.executor": "Run",
     "Python.fourcirlcles2.executor": "Run",
@@ -114,14 +116,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746123607922</updated>
-    </task>
-    <task id="LOCAL-00029" summary="commit">
-      <option name="closed" value="true" />
-      <created>1760391960918</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1760391960918</updated>
     </task>
     <task id="LOCAL-00030" summary="commit">
       <option name="closed" value="true" />
@@ -507,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760621812092</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="commit">
+      <option name="closed" value="true" />
+      <created>1760621876302</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1760621876302</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -543,5 +545,15 @@
     <MESSAGE value="git commit -m &quot;commmit&quot;" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/five_polygons.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
