@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88b50c60-59a7-457e-8959-45a82c54c789" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/turtle_bigger_circles.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle_bigger_circles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/human_face.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
     "Python.fourcirlcles2.executor": "Run",
     "Python.hello.executor": "Run",
     "Python.hexagon_stop.executor": "Run",
+    "Python.human_face.executor": "Run",
     "Python.loan.executor": "Run",
     "Python.minutestoyear.executor": "Run",
     "Python.numbersum.executor": "Run",
@@ -113,22 +115,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746123607922</updated>
-    </task>
-    <task id="LOCAL-00025" summary="commit">
-      <option name="closed" value="true" />
-      <created>1760389928035</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1760389928035</updated>
-    </task>
-    <task id="LOCAL-00026" summary="commit">
-      <option name="closed" value="true" />
-      <created>1760390720826</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1760390720826</updated>
     </task>
     <task id="LOCAL-00027" summary="commit">
       <option name="closed" value="true" />
@@ -506,7 +492,23 @@
       <option name="project" value="LOCAL" />
       <updated>1760616466055</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="commit">
+      <option name="closed" value="true" />
+      <created>1760616804991</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1760616804991</updated>
+    </task>
+    <task id="LOCAL-00075" summary="commit">
+      <option name="closed" value="true" />
+      <created>1760616870267</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1760616870267</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
